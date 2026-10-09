@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="460" viewBox="0 0 1500 460" role="img" aria-label="Ronnel QA Engineering Portfolio — Playwright, REST API, GitHub Actions">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1221"/><stop offset="1" stop-color="#17243a"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d6b4"/><stop offset="1" stop-color="#65a9ff"/></linearGradient>
+  </defs>
+  <rect width="1500" height="460" fill="url(#bg)"/>
+  <rect x="36" y="32" width="1428" height="396" rx="14" fill="none" stroke="#34445a" stroke-width="2"/>
+  <circle cx="1330" cy="90" r="155" fill="#65a9ff" opacity="0.045"/>
+  <circle cx="1420" cy="390" r="180" fill="#39d6b4" opacity="0.035"/>
+  <text x="88" y="100" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="8" font-weight="bold" fill="#77e2c7">RONNEL  /  QUALITY ASSURANCE</text>
+  <text x="84" y="177" font-family="Georgia, 'Times New Roman', serif" font-size="67" font-weight="bold" fill="#f1f5fb">QA Engineering Portfolio</text>
+  <rect x="88" y="196" width="1320" height="3" fill="url(#accent)" opacity="0.7"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="90" y="244" font-size="18" letter-spacing="4" fill="#76e0c5">01</text>
+    <text x="90" y="287" font-size="37" font-weight="bold" fill="#fff">Playwright</text>
+    <text x="90" y="318" font-size="20" fill="#b9c8dc">JavaScript · E2E</text>
+    <text x="90" y="344" font-size="20" fill="#b9c8dc">Web automation</text>
+    <line x1="525" y1="219" x2="525" y2="360" stroke="#496078" stroke-width="2"/>
+    <text x="560" y="244" font-size="18" letter-spacing="4" fill="#76e0c5">02</text>
+    <text x="560" y="287" font-size="37" font-weight="bold" fill="#fff">REST API</text>
+    <text x="560" y="318" font-size="20" fill="#b9c8dc">Postman · HTTP · JSON</text>
+    <text x="560" y="344" font-size="20" fill="#b9c8dc">Endpoint validation</text>
+    <line x1="1000" y1="219" x2="1000" y2="360" stroke="#496078" stroke-width="2"/>
+    <text x="1035" y="244" font-size="18" letter-spacing="4" fill="#76e0c5">03</text>
+    <text x="1035" y="287" font-size="34" font-weight="bold" fill="#fff">GitHub Actions</text>
+    <text x="1035" y="318" font-size="20" fill="#b9c8dc">CI workflows</text>
+    <text x="1035" y="344" font-size="20" fill="#b9c8dc">Automation pipeline</text>
+    <text x="750" y="395" font-size="15" letter-spacing="3" text-anchor="middle" fill="#a6b8ce">MANUAL TESTING  ·  AUTOMATION  ·  PRODUCT QUALITY</text>
+  </g>
+</svg>
