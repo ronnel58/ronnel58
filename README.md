@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![QA Portfolio Banner](./assets/qa-banner.png)
+![QA Portfolio Banner](qa-portfolio-banner.svg)
 
 # QA Manual Engineer | Automation Testing
 
